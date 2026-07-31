@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Prediction folders
+runs/
+uploads/
+predictions/
+
+# VS Code
+.vscode/
+
+# Python cache
+*.pyo
+*.pyd
+
+# ZIP files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
